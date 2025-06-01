@@ -1,0 +1,8 @@
+Model CubeThing
+{
+	path "models/cubething"
+	model 0 "cubething.iqm"
+	Scale 16 16 16
+
+	BaseFrame
+}
