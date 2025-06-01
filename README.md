@@ -4,7 +4,7 @@ by Agent_Ash (aka Jekyll Grim Payne0
 
 ## Description
 
-This completely free-to-use example demonstrates the use of IQM 3D model format. This example demonstrates the use of named decoupled animations supported by this format.
+This completely free-to-use example demonstrates the use of IQM 3D model format, specifically the use of named decoupled animations supported by this format.
 
 Contents:
 
@@ -17,6 +17,8 @@ Contents:
 * MODELDEF definition for the monster.
 
 * TEXTURES definition containing a single dummy sprite used by the monster.
+
+
 
 # Everyone is free to use this for any purpose
 
