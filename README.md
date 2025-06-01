@@ -18,7 +18,7 @@ Contents:
 
 * TEXTURES definition containing a single dummy sprite used by the monster.
 
-
+Lee Salzman's IQM plugin was used to export the model from Blender: https://github.com/lsalzman/iqm
 
 # Everyone is free to use this for any purpose
 
