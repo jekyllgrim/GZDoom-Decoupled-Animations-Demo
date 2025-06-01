@@ -1,6 +1,6 @@
 # GZDoom Decoupled Animations Demo
 
-by Agent_Ash (aka Jekyll Grim Payne0
+by Agent_Ash (aka Jekyll Grim Payne)
 
 ## Description
 
